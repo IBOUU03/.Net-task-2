@@ -1,0 +1,21 @@
+﻿@model ProductViewModel
+
+<h1>Students</h1>
+
+<ol>
+    @foreach (Student item in Model.Students)
+    {
+        <li>Id:@item.Id <br/>Name:@item.Name<br />Point:@item.Point</li>
+    }
+</ol>
+
+<h1>Groups</h1>
+
+<ol>
+    @foreach (Group item in Model.Groups)
+    {
+        <li>Id:@item.Id <br/>Name:@item.Name</li>
+    }
+</ol>
+
+

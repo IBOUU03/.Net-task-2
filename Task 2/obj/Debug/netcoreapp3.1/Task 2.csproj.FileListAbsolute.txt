@@ -1,0 +1,43 @@
+C:\Users\i.qasimzada\source\repos\Task 2\Task 2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\i.qasimzada\source\repos\Task 2\Task 2\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\i.qasimzada\source\repos\Task 2\Task 2\bin\Debug\netcoreapp3.1\Task 2.exe
+C:\Users\i.qasimzada\source\repos\Task 2\Task 2\bin\Debug\netcoreapp3.1\Task 2.deps.json
+C:\Users\i.qasimzada\source\repos\Task 2\Task 2\bin\Debug\netcoreapp3.1\Task 2.runtimeconfig.json
+C:\Users\i.qasimzada\source\repos\Task 2\Task 2\bin\Debug\netcoreapp3.1\Task 2.runtimeconfig.dev.json
+C:\Users\i.qasimzada\source\repos\Task 2\Task 2\bin\Debug\netcoreapp3.1\Task 2.dll
+C:\Users\i.qasimzada\source\repos\Task 2\Task 2\bin\Debug\netcoreapp3.1\Task 2.pdb
+C:\Users\i.qasimzada\source\repos\Task 2\Task 2\bin\Debug\netcoreapp3.1\Task 2.Views.dll
+C:\Users\i.qasimzada\source\repos\Task 2\Task 2\bin\Debug\netcoreapp3.1\Task 2.Views.pdb
+C:\Users\i.qasimzada\source\repos\Task 2\Task 2\obj\Debug\netcoreapp3.1\Task 2.csproj.AssemblyReference.cache
+C:\Users\i.qasimzada\source\repos\Task 2\Task 2\obj\Debug\netcoreapp3.1\Task 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\i.qasimzada\source\repos\Task 2\Task 2\obj\Debug\netcoreapp3.1\Task 2.AssemblyInfoInputs.cache
+C:\Users\i.qasimzada\source\repos\Task 2\Task 2\obj\Debug\netcoreapp3.1\Task 2.AssemblyInfo.cs
+C:\Users\i.qasimzada\source\repos\Task 2\Task 2\obj\Debug\netcoreapp3.1\Task 2.csproj.CoreCompileInputs.cache
+C:\Users\i.qasimzada\source\repos\Task 2\Task 2\obj\Debug\netcoreapp3.1\Task 2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\i.qasimzada\source\repos\Task 2\Task 2\obj\Debug\netcoreapp3.1\Task 2.RazorAssemblyInfo.cache
+C:\Users\i.qasimzada\source\repos\Task 2\Task 2\obj\Debug\netcoreapp3.1\Task 2.RazorAssemblyInfo.cs
+C:\Users\i.qasimzada\source\repos\Task 2\Task 2\obj\Debug\netcoreapp3.1\staticwebassets\Task 2.StaticWebAssets.Manifest.cache
+C:\Users\i.qasimzada\source\repos\Task 2\Task 2\obj\Debug\netcoreapp3.1\staticwebassets\Task 2.StaticWebAssets.Pack.cache
+C:\Users\i.qasimzada\source\repos\Task 2\Task 2\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.Task 2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\i.qasimzada\source\repos\Task 2\Task 2\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.Task 2.props
+C:\Users\i.qasimzada\source\repos\Task 2\Task 2\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.Task 2.props
+C:\Users\i.qasimzada\source\repos\Task 2\Task 2\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.Task 2.props
+C:\Users\i.qasimzada\source\repos\Task 2\Task 2\obj\Debug\netcoreapp3.1\Task 2.TagHelpers.input.cache
+C:\Users\i.qasimzada\source\repos\Task 2\Task 2\obj\Debug\netcoreapp3.1\Task 2.TagHelpers.output.cache
+C:\Users\i.qasimzada\source\repos\Task 2\Task 2\obj\Debug\netcoreapp3.1\Task 2.RazorCoreGenerate.cache
+C:\Users\i.qasimzada\source\repos\Task 2\Task 2\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\i.qasimzada\source\repos\Task 2\Task 2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\i.qasimzada\source\repos\Task 2\Task 2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\i.qasimzada\source\repos\Task 2\Task 2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\i.qasimzada\source\repos\Task 2\Task 2\obj\Debug\netcoreapp3.1\Razor\Views\Student\Detail.cshtml.g.cs
+C:\Users\i.qasimzada\source\repos\Task 2\Task 2\obj\Debug\netcoreapp3.1\Razor\Views\Student\Index.cshtml.g.cs
+C:\Users\i.qasimzada\source\repos\Task 2\Task 2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\i.qasimzada\source\repos\Task 2\Task 2\obj\Debug\netcoreapp3.1\Task 2.RazorTargetAssemblyInfo.cache
+C:\Users\i.qasimzada\source\repos\Task 2\Task 2\obj\Debug\netcoreapp3.1\Task 2.RazorTargetAssemblyInfo.cs
+C:\Users\i.qasimzada\source\repos\Task 2\Task 2\obj\Debug\netcoreapp3.1\Task 2.Views.pdb
+C:\Users\i.qasimzada\source\repos\Task 2\Task 2\obj\Debug\netcoreapp3.1\Task 2.dll
+C:\Users\i.qasimzada\source\repos\Task 2\Task 2\obj\Debug\netcoreapp3.1\Task 2.pdb
+C:\Users\i.qasimzada\source\repos\Task 2\Task 2\obj\Debug\netcoreapp3.1\Task 2.genruntimeconfig.cache
+C:\Users\i.qasimzada\source\repos\Task 2\Task 2\obj\Debug\netcoreapp3.1\Task 2.csproj.CopyComplete
+C:\Users\i.qasimzada\source\repos\Task 2\Task 2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\i.qasimzada\source\repos\Task 2\Task 2\obj\Debug\netcoreapp3.1\Razor\Views\Student\Error.cshtml.g.cs
